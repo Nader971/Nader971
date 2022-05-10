@@ -1,6 +1,3 @@
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nader971)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nader-mamdouh-a500091bb/)  
-
 <h1 align="center">Hi 👋, I'm Nader Mamdouh</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
@@ -25,15 +22,16 @@
 <a href="https://linkedin.com/in/nader-mamdouh-a500091bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nader-mamdouh-a500091bb" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nadermma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nadermma" height="30" width="40" /></a>
 </p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nader971) 
-
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nader971) 
 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nader971&" alt="nader971" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nader971&show_icons=true&locale=en" alt="nader971" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nader971&show_icons=true&locale=en&layout=compact" alt="nader971" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nader971&show_icons=true&locale=en" alt="nader971" /></p>
+
 
 
