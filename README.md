@@ -21,8 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nader-mamdouh-a500091bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nader-mamdouh-a500091bb" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nadermma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nadermma" height="30" width="40" /></a>
-</p>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nader971) 
+</p> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nader971) 
 
 
 
