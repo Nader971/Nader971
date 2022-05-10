@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ** Master Mobile Application Development**
 
-- 🌱 I’m currently learning **Android, Kotlin, Mobile Application Development, The Complete Android 12 & Kotlin Development Masterclass On Udemy **
+- 🌱 I’m currently learning **Android, Kotlin, Mobile Application Development, The Complete Android 12 & Kotlin Development Masterclass Course On Udemy **
 
 - 💬 Ask me about **Java, Kotlin, and Android, Android SDK**
 
