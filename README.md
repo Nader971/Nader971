@@ -12,7 +12,7 @@
 - Skills: Java / Kotlin / Android studio/ Android SDK / MVVM
 
 - 📫 How to reach me **nader.mamdouhm@gmail.com**
-- 📫 My resume :- https://drive.google.com/file/d/1MBcUvB81vyxMHNr5iXizb00OdhhmLrte/view?usp=sharing
+- 📫 My resume :- https://drive.google.com/file/d/1xUmE2aWTiIfBtYkb0ya3Lv3abG51Okgq/view?usp=drive_link
 
 
 <h3 align="left">Languages and Tools:</h3>
