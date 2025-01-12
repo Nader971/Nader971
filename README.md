@@ -12,7 +12,7 @@
 - Skills: SQL / PL/SQL / Java, Oracle Forms / Oracle Reports / Kotlin / Android studio/ Android SDK / MVVM
 
 - 📫 How to reach me **nader.mamdouhm@gmail.com**
-- 📫 My resume :- https://drive.google.com/file/d/1xUmE2aWTiIfBtYkb0ya3Lv3abG51Okgq/view?usp=drive_link
+- 📫 My resume :- https://drive.google.com/file/d/1wW4hhwsEF3P-xgB_LN7hGF4U-M4zIMnJ/view?usp=drivesdk
 
 
 <h3 align="left">Languages and Tools:</h3>
