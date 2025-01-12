@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nader Mamdouh</h1>
-<h3 align="center">A passionate Android developer from Egypt</h3>
+<h3 align="center">A passionate Oracle developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nader971&label=Profile%20views&color=0e75b6&style=flat" alt="nader971" /> </p>
 
-- 🔭 I’m currently working on ** Master Mobile Application Development**
+- 🔭 I’m currently working on ** Master Oracle Development & Oracle Apex Development**
 
-- 🌱 I’m currently learning **Android, Kotlin, Mobile Application Development, The Complete Android 12 & Kotlin Development Masterclass Course On Udemy **
+- 🌱 I’m currently learning **SQL, PL/SQL, Oracle Forms, Oracle Reports, Oracle Apex Development,  **
 
-- 💬 Ask me about **Java, Kotlin, and Android, Android SDK**
+- 💬 Ask me about ** SQL, PL/SQL, Java, Oracle Forms, Oracle Reports Kotlin, and Android, Android SDK**
 
-- Skills: Java / Kotlin / Android studio/ Android SDK / MVVM
+- Skills: SQL / PL/SQL / Java, Oracle Forms / Oracle Reports / Kotlin / Android studio/ Android SDK / MVVM
 
 - 📫 How to reach me **nader.mamdouhm@gmail.com**
 - 📫 My resume :- https://drive.google.com/file/d/1xUmE2aWTiIfBtYkb0ya3Lv3abG51Okgq/view?usp=drive_link
